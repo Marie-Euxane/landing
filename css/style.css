@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@100&family=Roboto:wght@100;300&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	background: rgb(230, 230, 230);
+	margin: 0px; 
+}
+h1 {
+	font-family: 'Antonio', sans-serif;
+	font-weight: bolder;
+	font-size: 54px;
+	color: #1c312c;
+}
+
+h2 {
+	font-family: 'Antonio', sans-serif;
+	font-weight: bold;
+	color: #1c312c;
+}
+
+h3 {
+font-family: 'Antonio', sans-serif;
+	font-weight: bolder;
+	font-size: 20px;
+	color: white;
+}
+
+h4 {
+font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	color: #1c312c;
+}
+
+a{
+	text-decoration: none;
+}
+{}
+{}
